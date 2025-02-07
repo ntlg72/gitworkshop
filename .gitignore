@@ -1,3 +1,5 @@
 credentials.json
 #todos los archivos con esta extensión no se suben
 *.png
+
+venv/
